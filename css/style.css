@@ -1,0 +1,26 @@
+* {
+    margin : 0;
+}
+
+/** Index.php */
+
+#indew {
+    max-width: 1440px;
+    margin: auto;
+    padding:0 15px;
+}
+#index h1 {
+    text-align: center;
+}
+#index nav ul li {
+    list-style: none;
+}
+#index nav ul li a {
+    color: black;
+    font-weight: 400;
+    font-size: 25px;
+    text-decoration: none;
+    &:hover {
+        color: cornflowerblue;
+    }
+}

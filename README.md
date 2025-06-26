@@ -12,32 +12,8 @@ Créer la structure de votre projet comme présenté ci-dessous.
 
 ## 📁 Structure du projet
 
-bibliotheque-php/
-├── config/
-│ └── db.php
-├── public/
-│ └── index.php
-├── auteurs/
-│ ├── liste.php
-│ ├── ajouter.php
-│ ├── modifier.php
-│ └── supprimer.php
-├── livres/
-│ ├── liste.php
-│ ├── ajouter.php
-│ ├── modifier.php
-│ └── supprimer.php
-├── membres/
-│ ├── liste.php
-│ ├── ajouter.php
-│ ├── modifier.php
-│ └── supprimer.php
-├── emprunts/
-│ ├── liste.php
-│ ├── emprunter.php
-│ ├── rendre.php
-│ └── historique.php
-└── style.css
+![image](https://github.com/user-attachments/assets/a05486eb-2908-4769-a0a1-dcdc7e606303)
+
 
 ---
 
